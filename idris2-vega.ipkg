@@ -2,7 +2,7 @@ package vega
 version = 0.1.0
 authors = "Robert Wright and Ohad Kammar"
 
-depends = contrib , json-schema
+depends = contrib
 
 modules
   = Language.VegaLite
