@@ -11,6 +11,6 @@ ipkg = "test.ipkg"
 
 [custom.all.json-schema]
 type = "github"
-url = "git@parseview-collaboration-github:madman-bob/idris2-json-schema"
+url = "https://github.com/madman-bob/idris2-json-schema"
 ipkg = "json-schema.ipkg"
 commit = "latest:main"
